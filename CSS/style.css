@@ -38,3 +38,48 @@
     line-height: 29px;
     color: #ffffff;
 }
+
+.posts-title{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 60px;
+    color: #21243D;
+}
+
+posts-title-h3{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 38px;
+    color: #21243D;
+}
+
+.posts-ul{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #21243D;
+}
+
+.posts-description{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    list-style: 24px;
+    color: #21243D;
+}
+
+.posts-btn{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #00a8cc;
+}
