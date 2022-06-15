@@ -83,3 +83,48 @@ posts-title-h3{
     line-height: 24px;
     color: #00a8cc;
 }
+
+.works-title{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 60px;
+    color: #21243D;
+}
+
+.works-title-link{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+    color: #21243D;
+}
+
+.works-btn{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 60px;
+    color: #ffffff;
+}
+
+.works-p{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #8695a4;
+}
+
+.works-description{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #21243D;
+}
